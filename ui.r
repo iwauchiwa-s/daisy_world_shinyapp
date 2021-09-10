@@ -54,8 +54,8 @@ shinyUI(pageWithSidebar(
 
     tags$br(),
     h5("Created by:"),
-    h5("S. Sugawara"),
-    h5("Miyagi Univ. of Education, Japan")
+    h5("xxxxxxxx"),
+    h5("xxxxxxxx")
    ),
   
   # Show plots
